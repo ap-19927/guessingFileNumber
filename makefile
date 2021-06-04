@@ -1,5 +1,5 @@
 README.md: guessinggame.sh
-	echo "#Project title: guessingFileNumber" > README.md
+	echo "Project title: guessingFileNumber" > README.md
 	echo " " >> README.md
 	echo "The date and time at which make was run:" >> README.md
 	date +"%Y-%m-%d %T" >> README.md
